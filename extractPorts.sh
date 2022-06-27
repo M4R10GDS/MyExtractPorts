@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-#Global variables
-
 # Reset
 CLF='\033[0m'       # Text Reset
 
