@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Realizado por M4R10GDS inspirado y motivado por s4vitar
+
 # Reset
 CLF='\033[0m'       # Text Reset
 
